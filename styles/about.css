@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 100vh;
+    margin: 0;
+    align-content: center;
+    font-size:small;
+    margin-inline: auto;
+    max-width: 500px;
+    width: 80%;
+   
+    
+
+}
+
+p{
+    border-radius: 30px;
+    border-width: 5px;
+    border-color: gray;
+    border-style: solid;
+    padding: 15px;
+
+}
